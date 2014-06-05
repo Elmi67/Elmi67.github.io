@@ -2,7 +2,7 @@ body{ color: #FF3333; }
 
 dl, h1.col-two { color: red; }
 
-.col-two dt dl {
+.col-two dt, dl {
     color: #FF3333;
 }
 
