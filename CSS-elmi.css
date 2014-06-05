@@ -1,8 +1,6 @@
 body{ color: #FF3333; }
 
-dl, h1.col-two { color: red; }
-
-.col-two dt, dl {
+.col-two dt, .col-two dl {
     color: #FF3333;
 }
 
