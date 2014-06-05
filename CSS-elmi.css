@@ -2,3 +2,13 @@ body{ color: #FF3333; }
 
 dl, h1.col-two { color: red; }
 
+    .col-two dt {
+        display: block;
+        float: none;
+        font-style: normal;
+        margin: 0.7em 0 0;
+        text-align: left;
+        width: auto;
+        color:#FF3333;
+    }
+
