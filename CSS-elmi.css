@@ -1,3 +1,4 @@
 body{ color: #FF3333; }
 
-h1.col-two { color: red; }
+dt, h1.col-two { color: red; }
+
